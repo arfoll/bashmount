@@ -30,6 +30,8 @@
 
 declare -r VERSION="2.0.0alpha1"
 
+# some new comment
+
 #-------------------------------------#
 #           CONFIGURATION             #
 #-------------------------------------#
